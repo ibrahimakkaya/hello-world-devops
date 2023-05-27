@@ -17,13 +17,14 @@
     This project is a simple Node.js app, demonstration of DevOps practices, showing the usage of Docker and deployment of a basic application using Google Cloud Platform (GCP) services and Kubernetes.
 
 
-    <br />
-    <a href="https://github.com/ibrahimakkaya/hello-world-devops"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
+    
   </p>
+  <a href="https://github.com/ibrahimakkaya/hello-world-devops/blob/main/README.md"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
 </div>
-
+<br />
+    
 
 
 
