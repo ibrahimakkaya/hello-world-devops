@@ -1,0 +1,14 @@
+{
+    "name": "hello-world-devops",
+    "version": "1.0.0",
+    "description": "Hello to DevOps with simple Nodejs app",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "author": "",
+    "license": "Apache-2.0",
+    "dependencies": {
+      "express": "^4.16.4"
+    }
+  }
