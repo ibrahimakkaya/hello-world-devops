@@ -177,11 +177,11 @@ Project Link: [https://github.com/ibrahimakkaya/hello-world-devops](https://gith
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/ibrahimakkaya/hello-world-devops.svg?style=for-the-badge
 [forks-url]: https://github.com/ibrahimakkaya/hello-world-devops/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/ibrahimakkaya/hello-world-devops.svg?style=for-the-badge
 [stars-url]: https://github.com/ibrahimakkaya/hello-world-devops/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/ibrahimakkaya/hello-world-devops.svg?style=for-the-badge
 [issues-url]: https://github.com/ibrahimakkaya/hello-world-devops/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/hibrahimakkaya/
