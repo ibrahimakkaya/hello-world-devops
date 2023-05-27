@@ -14,6 +14,8 @@ spec:
     spec:
       containers:
       - name: hello-app
+      #Replace region with your own region(eg. europe-west3 => us-central1)
+      #Replace project ID (eg. hello-world-devops => my-super-mega-project)
         image: europe-west3-docker.pkg.dev/hello-world-devops/hello-repo/helloworld-gke:latest
         ports:
         - containerPort: 8080
