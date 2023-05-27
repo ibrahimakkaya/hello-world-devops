@@ -142,7 +142,7 @@ Follow the steps below to deploy the Hello World DevOps application on Google Cl
    ```
 3. You can access simple Node.js app with external IP.
 
-
+Demo Link: [Hello World](http://34.106.8.233/)
 
 <!-- CONTRIBUTING -->
 ## Contributing
